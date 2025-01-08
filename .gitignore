@@ -28,3 +28,7 @@ doc/api/
 
 .vscode/
 .idea/
+
+devtools_options.yaml
+
+*.iml
